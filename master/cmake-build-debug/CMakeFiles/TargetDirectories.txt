@@ -1,0 +1,3 @@
+/home/nikita/Yandex.Disk/My_programm/SPI_Interface_arduino/master/cmake-build-debug/CMakeFiles/Master.dir
+/home/nikita/Yandex.Disk/My_programm/SPI_Interface_arduino/master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Yandex.Disk/My_programm/SPI_Interface_arduino/master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

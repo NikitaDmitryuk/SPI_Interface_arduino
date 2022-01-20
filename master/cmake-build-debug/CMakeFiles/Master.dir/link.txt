@@ -1,0 +1,1 @@
+avr-g++  -Os -DF_CPU=16000000UL -mmcu=atmega328p CMakeFiles/Master.dir/main.cpp.o -o Master 
